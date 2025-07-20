@@ -1,5 +1,5 @@
 # LED-with-Potensiometer
-Menyalakan atau mematikan LED menggunakan potensiometer.
+Menyalakan atau mematikan LED menggunakan potensiometer
 🔌 Blinking LED with Arduino (a.k.a. the Hello World of Hardware)
 "Because nothing screams I'm an engineer now like making an LED blink."
 
